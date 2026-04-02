@@ -2,22 +2,6 @@
 
 ---
 
-## Table of Contents
-1. [Overview](#overview)  
-2. [Objectives](#objectives)  
-3. [Requirements](#requirements)  
-   - [Functional Requirements](#functional-requirements)  
-   - [Non-Functional Requirements](#non-functional-requirements)  
-4. [Architecture](#architecture)  
-5. [Features](#features)  
-6. [Installation](#installation)  
-7. [Usage](#usage)  
-8. [Technologies](#technologies)  
-9. [Contributing](#contributing)  
-10. [License](#license)  
-
----
-
 ## Overview
 The **Order Management Application** is a Java-based system designed to handle clients, products, orders, and invoices. The application allows users to add, modify, delete, and view data, while automatically updating stock and generating invoices.  
 
